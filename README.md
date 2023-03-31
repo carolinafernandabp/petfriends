@@ -58,10 +58,12 @@ Luego, será redirigido a “FICHAS”, cada una de ellas estará habilitada par
 La figura 3, corresponde a agregar datos de transferencia, ahí deberá llenar todos los campos correspondientes, el botón “AGREGAR DATOS”, se habilitará cuando el formulario esté bien rellenado, cuando esto ocurra, presiona el botón y se mostrará en mensaje de que fue creado con éxito.
 
 Luego, será redirigido a “DATOS”, cada dato que suba estará disponible para “EDITAR”, al presionar el botón, se desplegará todos los campos disponibles para editar, cuando haya realizado un cambio presione “CONFIRMAR”, la pantalla se cerrará, y estará en la pantalla “DATOS”, visualizando todos los datos que agregó. Para “ELIMINAR” solo debe presionar el botón y los datos serán eliminados.
+
 ![figura 24](https://user-images.githubusercontent.com/83677828/229018304-a9a6a97e-4ba8-43f2-bc25-27648595c030.png)
 
 
 En el menú lateral, podrá acceder a toda la información que suba, “FICHA” y “DATOS”, además podrá ver en “SOLICITUD ADOPCIÓN” o “SOY VOLUNTARIO” todas las solicitudes que recibe y cambiar su estado.
 Para salir de su cuenta, tanto como Petlover u Organización amiga, debe dirigirse al menú lateral y presionar el botón “CERRAR SESIÓN”, y volverá al paso punto 1.
+
 ![figura 25](https://user-images.githubusercontent.com/83677828/229018340-85ff0b2e-3e0b-4fde-b096-e7fb9f2c883d.png)
 
