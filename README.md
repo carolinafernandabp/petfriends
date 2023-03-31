@@ -9,8 +9,8 @@ organizaciones y/o fundaciones a personas, con el propósito de simplificar este
 Al momento de ingresar a la aplicación, eres un usuario NO ingresado, por lo tanto, podrás acceder a funciones limitadas para interactuar en la aplicación.
 Podrás visualizar las publicaciones en la pantalla principal, que se encuentran separadas en tipo mascota y noticias, al presionar sobre “MASCOTAS”, podrás ver todas las publicaciones de categoría mascota. Al presionar “NOTICIAS”, podrás ver todas las publicaciones de categoría noticias.  
 
-![alt text](![figura 1](https://user-images.githubusercontent.com/83677828/229017532-5792b9f3-852c-46a0-a4f5-e2d5e5166dfe.jpg)
-)
+(![figura 1](https://user-images.githubusercontent.com/83677828/229017532-5792b9f3-852c-46a0-a4f5-e2d5e5166dfe.jpg)
+
 
 
 Para poder visualizar la publicación con mayor detalle, debes seleccionar el botón “VER MÁS”, donde se desplegará una pantalla que muestra toda la información de la publicación. Luego para salir de ella, puede presionar el botón “CERRAR” que se encuentra en la esquina superior derecha.
