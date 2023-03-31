@@ -11,9 +11,11 @@ Podrás visualizar las publicaciones en la pantalla principal, que se encuentran
 
 ![figura 1](https://user-images.githubusercontent.com/83677828/229017532-5792b9f3-852c-46a0-a4f5-e2d5e5166dfe.jpg)
 
-
-
 Para poder visualizar la publicación con mayor detalle, debes seleccionar el botón “VER MÁS”, donde se desplegará una pantalla que muestra toda la información de la publicación. Luego para salir de ella, puede presionar el botón “CERRAR” que se encuentra en la esquina superior derecha.
+
+![figura 2](https://user-images.githubusercontent.com/83677828/229017774-f68704ef-5906-41b8-852d-4f3bfae66aaf.jpg) ![figura 3](https://user-images.githubusercontent.com/83677828/229017809-5567d948-f319-475f-96bf-4715fdac54d5.png)
+
+
 
 Para desplegar el menú lateral, puede presionar, el “BOTÓN MENÚ” que se encuentra en la esquina superior izquierda o también puede deslizar su dedo en la pantalla de izquierda a derecha.
 
